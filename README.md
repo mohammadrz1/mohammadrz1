@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadrz1&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadrz1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadrz1" alt="mohammadrz1" /></a> </p>
-
 - 👨‍💻 Design examples [https://silverboxjs.ir](https://silverboxjs.ir)
 
 - 📫 How to reach me **mohammadrzx148@gmail.com**
