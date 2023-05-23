@@ -1,5 +1,5 @@
 <h1 >Hi I'm mohammad_rz1</h1>
-🌱 I’m currently learning<br>📫 How to reach me : mohammadrzx148@gmail.com<br>👨‍💻 Design examples : https://silverboxjs.ir<br>
+🌱 I’m currently learning<br>👨‍💻 Design examples : https://silverboxjs.ir<br>
 
 
 ## 🌐 Socials:
