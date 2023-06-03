@@ -1,4 +1,4 @@
-<h1 >Hi I'm mohammad_rz1</h1>
+<h1 align="center">Hi I'm mohammad_rz1</h1>
 🌱 I’m currently learning<br>👨‍💻 Design examples : https://silverboxjs.ir
 
 
